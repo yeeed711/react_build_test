@@ -1,8 +1,9 @@
 {
   "files": {
     "main.css": "/react_build_test/static/css/main.bdc31220.css",
-    "main.js": "/react_build_test/static/js/main.7ccbb813.js",
+    "main.js": "/react_build_test/static/js/main.63990ce9.js",
     "static/media/background.jpg": "/react_build_test/static/media/background.9d8ffdf2b026e3a71002.jpg",
+    "static/media/profile.jpg": "/react_build_test/static/media/profile.e2608c2bb9d5a58c15ce.jpg",
     "static/media/Github.svg": "/react_build_test/static/media/Github.44eca8266047557a439218d2afc94622.svg",
     "static/media/Logo.svg": "/react_build_test/static/media/Logo.ea185720a23355dde4b383c500d5238d.svg",
     "static/media/Twitter.svg": "/react_build_test/static/media/Twitter.710e72afc7caf1b555e2ce576d59b6bc.svg",
@@ -22,10 +23,10 @@
     "static/media/ArrowLeft-blue.svg": "/react_build_test/static/media/ArrowLeft-blue.a8f040986b41c7713bf5.svg",
     "static/media/ArrowTop.svg": "/react_build_test/static/media/ArrowTop.31b9123f76deea3066cdfd209a2d5525.svg",
     "main.bdc31220.css.map": "/react_build_test/static/css/main.bdc31220.css.map",
-    "main.7ccbb813.js.map": "/react_build_test/static/js/main.7ccbb813.js.map"
+    "main.63990ce9.js.map": "/react_build_test/static/js/main.63990ce9.js.map"
   },
   "entrypoints": [
     "static/css/main.bdc31220.css",
-    "static/js/main.7ccbb813.js"
+    "static/js/main.63990ce9.js"
   ]
 }
